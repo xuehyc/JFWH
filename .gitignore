@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MariaDB/data/ibdata1
+/MariaDB/data/jf_world/locales_broadcast_text.MYD
+/MariaDB/data/jf_world/performance_world.MYI
+/MariaDB/data/jf_world/creature_template.MYD
+/MariaDB/data/jf_world/item_template.MYD
+/MariaDB/data/jf_world/item_template_@5907@4efd.MYD
