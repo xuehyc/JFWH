@@ -1,0 +1,268 @@
+2019-09-10  1:19:48 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-10  1:19:48 0 [Note] InnoDB: Uses event mutexes
+2019-09-10  1:19:48 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-10  1:19:48 0 [Note] InnoDB: Number of pools: 1
+2019-09-10  1:19:48 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-10  1:19:48 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-10  1:19:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-10  1:19:49 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-10  1:19:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-10  1:19:49 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-10  1:19:49 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-10  1:19:49 0 [Note] InnoDB: Waiting for purge to start
+2019-09-10  1:19:49 0 [Note] InnoDB: 10.3.8 started; log sequence number 8200337; transaction id 2082
+2019-09-10  1:19:49 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10  1:19:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-10  1:19:49 0 [Note] Server socket created on IP: '::'.
+2019-09-10  1:19:49 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-10  1:19:50 0 [Note] InnoDB: Buffer pool(s) load completed at 190910  1:19:50
+2019-09-10 10:05:46 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-10 10:05:46 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-10 10:05:46 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-10 10:05:46 0 [Note] InnoDB: Starting shutdown...
+2019-09-10 10:05:46 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 10:05:46 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-10 10:05:46 0 [Note] InnoDB: Buffer pool(s) dump completed at 190910 10:05:46
+2019-09-10 10:05:47 0 [Note] InnoDB: Shutdown completed; log sequence number 17970826; transaction id 3762
+2019-09-10 10:05:47 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-10 10:05:47 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-10 10:07:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-10 10:07:38 0 [Note] InnoDB: Uses event mutexes
+2019-09-10 10:07:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-10 10:07:38 0 [Note] InnoDB: Number of pools: 1
+2019-09-10 10:07:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-10 10:07:38 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-10 10:07:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-10 10:07:39 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-10 10:07:39 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-10 10:07:39 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-10 10:07:39 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-10 10:07:39 0 [Note] InnoDB: Waiting for purge to start
+2019-09-10 10:07:39 0 [Note] InnoDB: 10.3.8 started; log sequence number 17970826; transaction id 3750
+2019-09-10 10:07:39 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 10:07:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-10 10:07:39 0 [Note] Server socket created on IP: '::'.
+2019-09-10 10:07:39 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-10 10:07:40 0 [Note] InnoDB: Buffer pool(s) load completed at 190910 10:07:40
+2019-09-10 21:02:45 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-10 21:02:45 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-10 21:02:45 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-10 21:02:46 0 [Note] InnoDB: Starting shutdown...
+2019-09-10 21:02:46 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 21:02:46 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-10 21:02:46 0 [Note] InnoDB: Buffer pool(s) dump completed at 190910 21:02:46
+2019-09-10 21:02:47 0 [Note] InnoDB: Shutdown completed; log sequence number 18307786; transaction id 4749
+2019-09-10 21:02:47 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-10 21:02:47 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-10 21:07:44 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-10 21:07:44 0 [Note] InnoDB: Uses event mutexes
+2019-09-10 21:07:44 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-10 21:07:44 0 [Note] InnoDB: Number of pools: 1
+2019-09-10 21:07:44 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-10 21:07:44 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-10 21:07:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-10 21:07:45 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-10 21:07:45 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-10 21:07:45 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-10 21:07:45 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-10 21:07:45 0 [Note] InnoDB: Waiting for purge to start
+2019-09-10 21:07:45 0 [Note] InnoDB: 10.3.8 started; log sequence number 18307786; transaction id 4751
+2019-09-10 21:07:45 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 21:07:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-10 21:07:46 0 [Note] Server socket created on IP: '::'.
+2019-09-10 21:07:46 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-10 21:07:47 0 [Note] InnoDB: Buffer pool(s) load completed at 190910 21:07:47
+2019-09-10 21:34:19 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-10 21:34:19 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-10 21:34:19 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-10 21:34:20 0 [Note] InnoDB: Starting shutdown...
+2019-09-10 21:34:20 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 21:34:20 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-10 21:34:20 0 [Note] InnoDB: Buffer pool(s) dump completed at 190910 21:34:20
+2019-09-10 21:34:21 0 [Note] InnoDB: Shutdown completed; log sequence number 18308239; transaction id 4769
+2019-09-10 21:34:21 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-10 21:34:21 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-10 21:34:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-10 21:34:49 0 [Note] InnoDB: Uses event mutexes
+2019-09-10 21:34:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-10 21:34:49 0 [Note] InnoDB: Number of pools: 1
+2019-09-10 21:34:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-10 21:34:49 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-10 21:34:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-10 21:34:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-10 21:34:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-10 21:34:52 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-10 21:34:52 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-10 21:34:52 0 [Note] InnoDB: Waiting for purge to start
+2019-09-10 21:34:52 0 [Note] InnoDB: 10.3.8 started; log sequence number 18308239; transaction id 4751
+2019-09-10 21:34:53 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 21:34:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-10 21:34:53 0 [Note] Server socket created on IP: '::'.
+2019-09-10 21:34:55 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-10 21:34:59 0 [Note] InnoDB: Buffer pool(s) load completed at 190910 21:34:59
+2019-09-10 22:05:15 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-10 22:05:15 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-10 22:05:15 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-10 22:05:15 0 [Note] InnoDB: Starting shutdown...
+2019-09-10 22:05:15 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 22:05:15 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-10 22:05:15 0 [Note] InnoDB: Buffer pool(s) dump completed at 190910 22:05:15
+2019-09-10 22:05:16 0 [Note] InnoDB: Shutdown completed; log sequence number 18308248; transaction id 4764
+2019-09-10 22:05:16 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-10 22:05:16 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-10 22:05:45 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-10 22:05:45 0 [Note] InnoDB: Uses event mutexes
+2019-09-10 22:05:45 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-10 22:05:45 0 [Note] InnoDB: Number of pools: 1
+2019-09-10 22:05:45 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-10 22:05:45 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-10 22:05:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-10 22:05:49 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-10 22:05:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-10 22:05:49 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-10 22:05:49 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-10 22:05:49 0 [Note] InnoDB: Waiting for purge to start
+2019-09-10 22:05:49 0 [Note] InnoDB: 10.3.8 started; log sequence number 18308248; transaction id 4751
+2019-09-10 22:05:49 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-10 22:05:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-10 22:05:49 0 [Note] Server socket created on IP: '::'.
+2019-09-10 22:05:51 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-10 22:05:56 0 [Note] InnoDB: Buffer pool(s) load completed at 190910 22:05:56
+2019-09-11 22:36:56 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-11 22:36:56 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-11 22:36:56 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-11 22:36:57 0 [Note] InnoDB: Starting shutdown...
+2019-09-11 22:36:57 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\data\ib_buffer_pool
+2019-09-11 22:36:57 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-11 22:36:57 0 [Note] InnoDB: Buffer pool(s) dump completed at 190911 22:36:57
+2019-09-11 22:36:59 0 [Note] InnoDB: Shutdown completed; log sequence number 20490317; transaction id 9853
+2019-09-11 22:36:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-11 22:36:59 0 [Note] F:\JFwowCore\UPUPW_AP7.2_64\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-11 22:38:16 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-11 22:38:16 0 [Note] InnoDB: Uses event mutexes
+2019-09-11 22:38:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-11 22:38:16 0 [Note] InnoDB: Number of pools: 1
+2019-09-11 22:38:16 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-11 22:38:16 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-11 22:38:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-11 22:38:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-11 22:38:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-11 22:38:17 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-11 22:38:17 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-11 22:38:17 0 [Note] InnoDB: Waiting for purge to start
+2019-09-11 22:38:17 0 [Note] InnoDB: 10.3.8 started; log sequence number 20490317; transaction id 9855
+2019-09-11 22:38:17 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 22:38:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-11 22:38:17 0 [Note] Server socket created on IP: '::'.
+2019-09-11 22:38:17 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-11 22:38:19 0 [Note] InnoDB: Buffer pool(s) load completed at 190911 22:38:19
+2019-09-11 22:41:53 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-11 22:41:53 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-11 22:41:53 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-11 22:41:53 0 [Note] InnoDB: Starting shutdown...
+2019-09-11 22:41:53 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 22:41:53 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-11 22:41:53 0 [Note] InnoDB: Buffer pool(s) dump completed at 190911 22:41:53
+2019-09-11 22:41:54 0 [Note] InnoDB: Shutdown completed; log sequence number 20492731; transaction id 9874
+2019-09-11 22:41:54 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-11 22:41:54 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-11 22:42:42 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-11 22:42:42 0 [Note] InnoDB: Uses event mutexes
+2019-09-11 22:42:42 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-11 22:42:42 0 [Note] InnoDB: Number of pools: 1
+2019-09-11 22:42:42 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-11 22:42:42 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-11 22:42:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-11 22:42:43 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-11 22:42:43 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-11 22:42:43 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-11 22:42:43 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-11 22:42:43 0 [Note] InnoDB: Waiting for purge to start
+2019-09-11 22:42:43 0 [Note] InnoDB: 10.3.8 started; log sequence number 20492731; transaction id 9871
+2019-09-11 22:42:43 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 22:42:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-11 22:42:43 0 [Note] Server socket created on IP: '::'.
+2019-09-11 22:42:43 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-11 22:42:45 0 [Note] InnoDB: Buffer pool(s) load completed at 190911 22:42:45
+2019-09-11 22:52:12 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-11 22:52:12 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-11 22:52:12 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-11 22:52:12 0 [Note] InnoDB: Starting shutdown...
+2019-09-11 22:52:12 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 22:52:12 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-11 22:52:12 0 [Note] InnoDB: Buffer pool(s) dump completed at 190911 22:52:12
+2019-09-11 22:52:13 0 [Note] InnoDB: Shutdown completed; log sequence number 20563749; transaction id 10354
+2019-09-11 22:52:13 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-11 22:52:13 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-11 23:02:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-11 23:02:20 0 [Note] InnoDB: Uses event mutexes
+2019-09-11 23:02:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-11 23:02:20 0 [Note] InnoDB: Number of pools: 1
+2019-09-11 23:02:20 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-11 23:02:20 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-11 23:02:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-11 23:02:21 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-11 23:02:21 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-11 23:02:21 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-11 23:02:21 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-11 23:02:21 0 [Note] InnoDB: 10.3.8 started; log sequence number 20563749; transaction id 10356
+2019-09-11 23:02:21 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 23:02:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-11 23:02:21 0 [Note] Server socket created on IP: '::'.
+2019-09-11 23:02:21 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-11 23:02:22 0 [Note] InnoDB: Buffer pool(s) load completed at 190911 23:02:22
+2019-09-11 23:04:40 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-11 23:04:40 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-11 23:04:40 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-11 23:04:40 0 [Note] InnoDB: Starting shutdown...
+2019-09-11 23:04:40 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 23:04:40 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-11 23:04:40 0 [Note] InnoDB: Buffer pool(s) dump completed at 190911 23:04:40
+2019-09-11 23:04:41 0 [Note] InnoDB: Shutdown completed; log sequence number 20572763; transaction id 10543
+2019-09-11 23:04:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-11 23:04:41 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2019-09-11 23:05:50 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-09-11 23:05:50 0 [Note] InnoDB: Uses event mutexes
+2019-09-11 23:05:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-09-11 23:05:50 0 [Note] InnoDB: Number of pools: 1
+2019-09-11 23:05:50 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-09-11 23:05:50 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2019-09-11 23:05:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-09-11 23:05:51 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-09-11 23:05:51 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-09-11 23:05:51 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-09-11 23:05:51 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-09-11 23:05:51 0 [Note] InnoDB: 10.3.8 started; log sequence number 20572763; transaction id 10544
+2019-09-11 23:05:51 0 [Note] InnoDB: Loading buffer pool(s) from F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 23:05:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-09-11 23:05:51 0 [Note] Server socket created on IP: '::'.
+2019-09-11 23:05:51 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-09-11 23:05:52 0 [Note] InnoDB: Buffer pool(s) load completed at 190911 23:05:52
+2019-09-11 23:06:57 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2019-09-11 23:06:57 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-09-11 23:06:57 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-09-11 23:06:58 0 [Note] InnoDB: Starting shutdown...
+2019-09-11 23:06:58 0 [Note] InnoDB: Dumping buffer pool(s) to F:\JFwowCore\JF_WEB\MariaDB\data\ib_buffer_pool
+2019-09-11 23:06:58 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2019-09-11 23:06:58 0 [Note] InnoDB: Buffer pool(s) dump completed at 190911 23:06:58
+2019-09-11 23:06:59 0 [Note] InnoDB: Shutdown completed; log sequence number 20572772; transaction id 10545
+2019-09-11 23:06:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-09-11 23:06:59 0 [Note] F:\JFwowCore\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+

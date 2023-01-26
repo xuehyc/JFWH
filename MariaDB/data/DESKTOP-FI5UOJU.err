@@ -1,0 +1,187 @@
+2022-03-06  6:25:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-06  6:25:37 0 [Note] InnoDB: Uses event mutexes
+2022-03-06  6:25:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-06  6:25:37 0 [Note] InnoDB: Number of pools: 1
+2022-03-06  6:25:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-06  6:25:37 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-06  6:25:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-06  6:25:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-06  6:25:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-06  6:25:38 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-06  6:25:38 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-06  6:25:38 0 [Note] InnoDB: Waiting for purge to start
+2022-03-06  6:25:38 0 [Note] InnoDB: 10.3.8 started; log sequence number 20572772; transaction id 10544
+2022-03-06  6:25:38 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-06  6:25:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06  6:25:39 0 [Note] Server socket created on IP: '::'.
+2022-03-06  6:25:39 0 [Note] InnoDB: Buffer pool(s) load completed at 220306  6:25:39
+2022-03-06  6:25:39 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-03-06  6:49:23 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-03-06  6:49:23 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-03-06  6:49:23 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-03-06  6:49:23 0 [Note] InnoDB: Starting shutdown...
+2022-03-06  6:49:23 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-06  6:49:23 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2022-03-06  6:49:23 0 [Note] InnoDB: Buffer pool(s) dump completed at 220306  6:49:23
+2022-03-06  6:49:25 0 [Note] InnoDB: Shutdown completed; log sequence number 20574408; transaction id 10565
+2022-03-06  6:49:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-06  6:49:25 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2022-03-06  7:08:33 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-06  7:08:33 0 [Note] InnoDB: Uses event mutexes
+2022-03-06  7:08:33 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-06  7:08:33 0 [Note] InnoDB: Number of pools: 1
+2022-03-06  7:08:33 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-06  7:08:33 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-06  7:08:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-06  7:08:34 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-06  7:08:34 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-06  7:08:34 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-06  7:08:34 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-06  7:08:34 0 [Note] InnoDB: Waiting for purge to start
+2022-03-06  7:08:34 0 [Note] InnoDB: 10.3.8 started; log sequence number 20574408; transaction id 10554
+2022-03-06  7:08:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-06  7:08:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06  7:08:34 0 [Note] Server socket created on IP: '::'.
+2022-03-06  9:25:35 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06  9:25:35 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06  9:25:35 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-03-06  9:25:35 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-03-06  9:25:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06  9:25:35 0 [Note] Server socket created on IP: '::'.
+2022-03-06  9:25:35 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2022-03-06  9:25:35 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-03-06  9:25:35 0 [ERROR] Aborting
+
+2022-03-06  9:58:21 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06  9:58:21 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06  9:58:21 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-03-06  9:58:21 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-03-06  9:58:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06  9:58:21 0 [Note] Server socket created on IP: '::'.
+2022-03-06  9:58:21 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2022-03-06  9:58:21 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-03-06  9:58:21 0 [ERROR] Aborting
+
+2022-03-06 10:02:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06 10:02:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06 10:02:06 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-03-06 10:02:06 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-03-06 10:02:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06 10:02:06 0 [Note] Server socket created on IP: '::'.
+2022-03-06 10:02:06 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2022-03-06 10:02:06 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-03-06 10:02:06 0 [ERROR] Aborting
+
+2022-03-06 10:22:22 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06 10:22:22 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-06 10:22:22 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-03-06 10:22:22 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-03-06 10:22:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-06 10:22:22 0 [Note] Server socket created on IP: '::'.
+2022-03-06 10:22:22 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2022-03-06 10:22:22 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-03-06 10:22:22 0 [ERROR] Aborting
+
+2022-03-07 10:17:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-07 10:17:53 0 [Note] InnoDB: Uses event mutexes
+2022-03-07 10:17:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-07 10:17:53 0 [Note] InnoDB: Number of pools: 1
+2022-03-07 10:17:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-07 10:17:53 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-07 10:17:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-07 10:17:53 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=69132354
+2022-03-07 10:17:53 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-07 10:17:53 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-03-07 10:17:53 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-03-07 10:17:53 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-03-07 10:17:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-07 10:17:54 0 [Note] Server socket created on IP: '::'.
+2022-03-07 10:17:55 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-07 10:17:55 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-07 10:17:55 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-07 10:17:55 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-07 10:17:55 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-07 10:17:55 0 [Note] InnoDB: Waiting for purge to start
+2022-03-07 10:17:56 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132363; transaction id 296760
+2022-03-07 10:17:56 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-07 10:17:56 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-07 10:17:56 0 [Note] Server socket created on IP: '::'.
+2022-03-07 10:17:56 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2022-03-07 10:17:56 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-03-07 10:17:56 0 [ERROR] Aborting
+
+2022-03-08  8:52:51 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-08  8:52:51 0 [Note] InnoDB: Uses event mutexes
+2022-03-08  8:52:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-08  8:52:51 0 [Note] InnoDB: Number of pools: 1
+2022-03-08  8:52:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-08  8:52:51 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-08  8:52:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-08  8:52:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-08  8:52:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-08  8:52:53 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-08  8:52:53 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-08  8:52:53 0 [Note] InnoDB: Waiting for purge to start
+2022-03-08  8:52:53 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132372; transaction id 296760
+2022-03-08  8:52:53 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-08  8:52:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-08  8:52:53 0 [Note] Server socket created on IP: '::'.
+2022-03-08  8:52:53 0 [Note] InnoDB: Buffer pool(s) load completed at 220308  8:52:53
+2022-03-08  8:52:53 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-03-08  8:52:59 8 [ERROR] mysqld.exe: Table '.\jf_web\wow_users' is marked as crashed and should be repaired
+2022-03-08  8:52:59 8 [Warning] Checking table:   '.\jf_web\wow_users'
+2022-03-08  8:52:59 8 [ERROR] mysqld.exe: Table '.\jf_web\wow_user_characters' is marked as crashed and should be repaired
+2022-03-08  8:52:59 8 [Warning] Checking table:   '.\jf_web\wow_user_characters'
+2022-03-08  8:57:17 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-03-08  8:57:17 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-03-08  8:57:17 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-03-08  8:57:17 0 [Note] InnoDB: Starting shutdown...
+2022-03-08  8:57:17 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-08  8:57:17 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2022-03-08  8:57:17 0 [Note] InnoDB: Buffer pool(s) dump completed at 220308  8:57:17
+2022-03-08  8:57:18 0 [Note] InnoDB: Shutdown completed; log sequence number 69132381; transaction id 296767
+2022-03-08  8:57:18 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-08  8:57:18 0 [Note] C:\Website\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2022-03-08  9:03:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-08  9:03:34 0 [Note] InnoDB: Uses event mutexes
+2022-03-08  9:03:34 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-08  9:03:34 0 [Note] InnoDB: Number of pools: 1
+2022-03-08  9:03:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-08  9:03:34 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-08  9:03:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-08  9:03:34 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-08  9:03:34 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-08  9:03:34 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-08  9:03:34 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-08  9:03:34 0 [Note] InnoDB: Waiting for purge to start
+2022-03-08  9:03:34 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132381; transaction id 296760
+2022-03-08  9:03:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-08  9:03:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-08  9:03:34 0 [Note] Server socket created on IP: '::'.
+2022-03-08  9:07:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-08  9:07:34 0 [Note] InnoDB: Uses event mutexes
+2022-03-08  9:07:34 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-03-08  9:07:34 0 [Note] InnoDB: Number of pools: 1
+2022-03-08  9:07:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-08  9:07:34 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2022-03-08  9:07:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-08  9:07:34 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=69132381
+2022-03-08  9:07:35 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-08  9:07:35 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-08  9:07:35 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-08  9:07:35 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-08  9:07:35 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-03-08  9:07:35 0 [Note] InnoDB: Waiting for purge to start
+2022-03-08  9:07:35 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132390; transaction id 296760
+2022-03-08  9:07:35 0 [Note] InnoDB: Loading buffer pool(s) from C:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2022-03-08  9:07:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-08  9:07:35 0 [Note] Server socket created on IP: '::'.

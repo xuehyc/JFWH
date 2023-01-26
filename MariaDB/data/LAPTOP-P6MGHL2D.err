@@ -1,0 +1,66 @@
+2023-01-26 15:03:21 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-01-26 15:03:21 0 [Note] InnoDB: Uses event mutexes
+2023-01-26 15:03:21 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2023-01-26 15:03:21 0 [Note] InnoDB: Number of pools: 1
+2023-01-26 15:03:21 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-01-26 15:03:21 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2023-01-26 15:03:21 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-01-26 15:03:21 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=69132399
+2023-01-26 15:03:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-01-26 15:03:22 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-01-26 15:03:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-01-26 15:03:22 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-01-26 15:03:22 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-01-26 15:03:22 0 [Note] InnoDB: Waiting for purge to start
+2023-01-26 15:03:22 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132408; transaction id 296760
+2023-01-26 15:03:22 0 [Note] InnoDB: Loading buffer pool(s) from D:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2023-01-26 15:03:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-01-26 15:03:22 0 [Note] Server socket created on IP: '::'.
+2023-01-26 15:03:22 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-01-26 15:03:22 0 [Note] InnoDB: Buffer pool(s) load completed at 230126 15:03:22
+2023-01-26 15:06:01 285 [ERROR] mysqld.exe: Table '.\jf_web\wow_forum_threads' is marked as crashed and should be repaired
+2023-01-26 15:06:01 285 [Warning] Checking table:   '.\jf_web\wow_forum_threads'
+2023-01-26 15:06:13 330 [ERROR] mysqld.exe: Table '.\jf_web\wow_forum_posts' is marked as crashed and should be repaired
+2023-01-26 15:06:13 330 [Warning] Checking table:   '.\jf_web\wow_forum_posts'
+2023-01-26 15:07:36 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2023-01-26 15:07:36 0 [Note] Event Scheduler: Purging the queue. 0 events
+2023-01-26 15:07:36 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-01-26 15:07:36 0 [Note] InnoDB: Starting shutdown...
+2023-01-26 15:07:36 0 [Note] InnoDB: Dumping buffer pool(s) to D:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2023-01-26 15:07:36 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2023-01-26 15:07:36 0 [Note] InnoDB: Buffer pool(s) dump completed at 230126 15:07:36
+2023-01-26 15:07:37 0 [Note] InnoDB: Shutdown completed; log sequence number 69132426; transaction id 296777
+2023-01-26 15:07:37 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-01-26 15:07:37 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
+2023-01-26 15:17:46 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-01-26 15:17:46 0 [Note] InnoDB: Uses event mutexes
+2023-01-26 15:17:46 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2023-01-26 15:17:46 0 [Note] InnoDB: Number of pools: 1
+2023-01-26 15:17:46 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-01-26 15:17:46 0 [Note] InnoDB: Initializing buffer pool, total size = 64M, instances = 1, chunk size = 64M
+2023-01-26 15:17:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-01-26 15:17:46 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-01-26 15:17:46 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-01-26 15:17:46 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-01-26 15:17:46 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-01-26 15:17:46 0 [Note] InnoDB: Waiting for purge to start
+2023-01-26 15:17:46 0 [Note] InnoDB: 10.3.8 started; log sequence number 69132426; transaction id 296760
+2023-01-26 15:17:46 0 [Note] InnoDB: Loading buffer pool(s) from D:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2023-01-26 15:17:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-01-26 15:17:46 0 [Note] Server socket created on IP: '::'.
+2023-01-26 15:17:46 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-01-26 15:17:46 0 [Note] InnoDB: Buffer pool(s) load completed at 230126 15:17:46
+2023-01-26 15:27:06 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2023-01-26 15:27:06 0 [Note] Event Scheduler: Purging the queue. 0 events
+2023-01-26 15:27:06 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-01-26 15:27:06 0 [Note] InnoDB: Starting shutdown...
+2023-01-26 15:27:06 0 [Note] InnoDB: Dumping buffer pool(s) to D:\Website\JF_WEB\MariaDB\data\ib_buffer_pool
+2023-01-26 15:27:06 0 [Note] InnoDB: Instance 0, restricted to 1024 pages due to innodb_buf_pool_dump_pct=25
+2023-01-26 15:27:06 0 [Note] InnoDB: Buffer pool(s) dump completed at 230126 15:27:06
+2023-01-26 15:27:07 0 [Note] InnoDB: Shutdown completed; log sequence number 69132435; transaction id 296762
+2023-01-26 15:27:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-01-26 15:27:07 0 [Note] D:\Website\JF_WEB\MariaDB\bin\mysqld.exe: Shutdown complete
+
